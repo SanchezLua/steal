@@ -1,0 +1,118 @@
+[CENTER][FONT=book antiqua]Для снятия выговора мл.составу потребуется 30 баллов
+Для снятия выговора ст.составу потребуется 50 баллов[/FONT]
+
+[SIZE=6][FONT=book antiqua]Младший состав[/FONT][/SIZE]
+[/CENTER]
+[TABLE]
+[TR]
+[TH][CENTER][FONT=book antiqua][SIZE=5]Задание[/SIZE][/FONT][/CENTER][/TH]
+
+[TH][CENTER][FONT=book antiqua][SIZE=5]Примечание к заданию и кол-во баллов[/SIZE][/FONT][/CENTER][/TH]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Выдать 30 лицензий[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Пост 30 минут[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]3 балла (скриншот каждые 10 минут, не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Прослушать лекцию[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]3 балла (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Поучаствовать на мероприятии[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]3 балла (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Участие в РП от ст.состава (5+)[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]2 балла (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Поручение от ст.состава (5+)[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Участие в совместном мероприятии от ст.состава (5+)[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]6 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Качественная СС-ка[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]10 баллов (не больше 1-го раза)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Раздать 10 листовок[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[/TABLE]
+[CENTER]
+
+[SIZE=6][FONT=book antiqua]Старший состав[/FONT][/SIZE]
+[/CENTER]
+[TABLE]
+[TR]
+[TH][CENTER][SIZE=5][FONT=book antiqua]Задание[/FONT][/SIZE][/CENTER][/TH]
+
+[TH][CENTER][SIZE=5][FONT=book antiqua]Примечание к заданию и кол-во баллов[/FONT][/SIZE][/CENTER][/TH]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Провести лекцию[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Провести мероприятие[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Провести РП с составом[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]6 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Проверка устава/прайс-листа/речи[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]2 балла (не больше 1-го раза)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Помощь на собеседовании[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]3 балла (не больше 5-ти раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Провести совместное мероприятие[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]8 баллов (не больше 2-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Выполнить поручение от Управляющего[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]10 баллов (не больше 1-го раза)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Сделать проверку мед.карт состава[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]5 баллов (не больше 1-го раза)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Качественная СС-ка[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]10 баллов (не больше 1-го раза)[/FONT][/CENTER][/TD]
+[/TR]
+[TR]
+[TD][CENTER][FONT=book antiqua]Провести тренировку с составом[/FONT][/CENTER][/TD]
+
+[TD][CENTER][FONT=book antiqua]7 баллов (не больше 3-х раз)[/FONT][/CENTER][/TD]
+[/TR]
+[/TABLE]
